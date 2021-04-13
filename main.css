@@ -1,0 +1,56 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+.infophoto{
+    height: 110px;
+
+}
+
+.info{
+    float: left;
+}
+
+.photo{
+    float:right;
+}
+
+.FORMATION{
+    margin-bottom: 70px;
+}
+
+.EXPERIENCES{
+    float: left;
+}
+.sec-gauche{
+    float: left;
+}
+.sec-droite{
+    margin-left: 250px;
+}
+.section{
+    float: right;
+}
+
+h2{
+    color: rgb(12, 12, 12);
+}
+ul {
+    list-style-type: none;
+    }
+h3{
+    color: rgb(192, 0, 0);
+}
+
+h2 {
+    width: 100%; 
+    text-align: left; 
+    border-bottom: 5px solid rgb(192, 0, 0); 
+    line-height: 2em;
+    margin: 10px 0 20px; 
+ }
+  
+
