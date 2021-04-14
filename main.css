@@ -1,56 +1,69 @@
-.page{
-    width: 780px;
-    margin: auto;
+body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 16px;
+    margin:2%;
 }
-
-.infophoto{
-    height: 110px;
-
-}
-
 .info{
     float: left;
+    margin: 2%;
 }
-
 .photo{
-    float:right;
+    width: 90px;
+    height: 117px;
+    float: left;
+    margin: 2%;
+    border: 4px purple solid;
 }
-
+.Qualités{
+    clear: both;
+    color: purple;
+    text-decoration: underline 3px purple;
+}
 .FORMATION{
-    margin-bottom: 70px;
+    text-align: left;
 }
-
-.EXPERIENCES{
-    float: left;
-}
-.sec-gauche{
-    float: left;
-}
-.sec-droite{
-    margin-left: 250px;
-}
-.section{
-    float: right;
-}
-
-h2{
-    color: rgb(12, 12, 12);
-}
-ul {
-    list-style-type: none;
-    }
-h3{
-    color: rgb(192, 0, 0);
-}
-
 h2 {
+    color: rgb(12, 12, 12);
     width: 100%; 
     text-align: left; 
-    border-bottom: 5px solid rgb(192, 0, 0); 
+    border-bottom: 5px solid purple; 
     line-height: 2em;
     margin: 10px 0 20px; 
- }
-  
-
+}
+.gocentre{
+    width: 45%;
+    float:left;
+    padding : 2%;
+}
+.center{
+    text-align: left;
+    text-decoration: underline 3px;
+    text-decoration-color: purple;
+    font-weight: bold;
+}
+.centre{
+    text-align: left;
+    list-style-type: none;
+}
+.gauche{
+    text-align: left;
+    text-decoration: underline 3px;
+    text-decoration-color: purple;
+    font-weight: bold;  
+}
+.left{
+    list-style-type: none;
+    text-align: left;
+}
+.restegauche{
+    width: 45%;
+    float: left;
+    padding:2%;
+}
+.compé-ci{
+    border: 4px purple solid;
+    height: 250px;
+}
+li{
+    margin: 10px 0px;
+}
