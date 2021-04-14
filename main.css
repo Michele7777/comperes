@@ -6,6 +6,9 @@ body{
 .info{
     float: left;
     margin: 2%;
+    border : 3px purple solid;
+    width: 350px;
+    line-height: 20px;
 }
 .photo{
     width: 90px;
@@ -66,4 +69,10 @@ h2 {
 }
 li{
     margin: 10px 0px;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color: purple;
 }
