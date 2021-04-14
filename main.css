@@ -11,16 +11,19 @@ body{
     line-height: 20px;
 }
 .photo{
-    width: 90px;
-    height: 117px;
+    width: 104px;
+    height: 135px;
     float: left;
     margin: 2%;
     border: 4px purple solid;
 }
+h1{
+    text-decoration: underline purple;
+}
 .Qualités{
     clear: both;
     color: purple;
-    text-decoration: underline 3px purple;
+    text-decoration: underline purple;
 }
 .FORMATION{
     text-align: left;
@@ -40,9 +43,9 @@ h2 {
 }
 .center{
     text-align: left;
-    text-decoration: underline 3px;
-    text-decoration-color: purple;
+    text-decoration: underline purple;
     font-weight: bold;
+    color: purple;
 }
 .centre{
     text-align: left;
@@ -50,9 +53,9 @@ h2 {
 }
 .gauche{
     text-align: left;
-    text-decoration: underline 3px;
-    text-decoration-color: purple;
-    font-weight: bold;  
+    text-decoration: underline purple;
+    font-weight: bold;
+    color: purple;  
 }
 .left{
     list-style-type: none;
