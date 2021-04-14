@@ -12,11 +12,12 @@ Le site est optimisé pour le SEO et bien structuré afin que le contenu soit ac
 Design libre mais étant responsive.
 Le site contient des liens vers :
 
-- Mon profil Github (https://github.com/Sebastien73)
+- Mon profil Github (https://github.com/Michele7777)
 
 Ainsi que :
 
 - Un moyen de me contacter par e-mail.
+- Lien vers mon profil github.
 
 ### Pré-requis :
 
