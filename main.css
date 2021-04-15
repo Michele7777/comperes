@@ -37,7 +37,7 @@ h2 {
     margin: 10px 0 20px; 
 }
 .gocentre{
-    width: 45%;
+    width: 20%;
     float:left;
     padding : 2%;
 }
@@ -59,20 +59,21 @@ h2 {
 }
 .left{
     list-style-type: none;
-    text-align: left;
+    margin-left: 0px;
 }
-.restegauche{
-    width: 45%;
-    float: left;
-    padding:2%;
-}
-.compé-ci{
+
+.container-fluid{
+    margin-top: 50px;
     border: 4px purple solid;
-    height: 250px;
+    width: auto;
+    height: auto;
+    padding-top: 20px;
 }
 li{
-    margin: 10px 0px;
+    margin: 10px 0px 10px;
 }
+
+
 a{
     color: blue;
 }
@@ -82,3 +83,7 @@ a:hover{
 body{
     background-color:papayawhip;
     }
+span{
+    font-style: italic;
+    color: purple;
+}
