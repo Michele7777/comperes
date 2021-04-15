@@ -70,7 +70,7 @@ h2 {
     padding-top: 20px;
 }
 li{
-    margin: 10px 0px 10px;
+    margin: 10px 0px 10px 0px;
 }
 
 
@@ -86,4 +86,11 @@ body{
 span{
     font-style: italic;
     color: purple;
+}
+progress{
+        padding:2px;
+        width:250px;
+        background-color :purple;
+        border:1px solid purple;
+        height: 10px;
 }
